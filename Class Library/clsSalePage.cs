@@ -1,8 +1,8 @@
 ﻿namespace Class_Library
 {
-    public class clsAddress
+    public class clsSalePage
     {
-        public clsAddress()
+        public clsSalePage()
         {
         }
     }
