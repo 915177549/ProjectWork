@@ -52,8 +52,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="tstAddress.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tstSale.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Class Library\Class Library.csproj">
